@@ -1,0 +1,5 @@
+flet
+SpeechRecognition
+pyaudio
+random
+time
