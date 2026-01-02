@@ -127,10 +127,6 @@ def vitoria(tabuleiro): #A função vitoria analisa a matriz para conferir se al
                         return False
             return True
         
-        
-
-            
-
 def computador_repetiu_jogada():
             x = randint(0, 9)
             y = randint(0, 9)

@@ -1,0 +1,9 @@
+### VS Code ###
+.vscode/
+*.code-workspace
+
+### Arquivos python ###
+__pycache__/
+*.py[cod]
+.venv/
+env/
