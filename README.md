@@ -1,3 +1,4 @@
+![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
 # 🚢 Batalha Naval com Comando de Voz
 
 Um jogo clássico de Batalha Naval desenvolvido em Python, com um diferencial moderno: **você joga falando as coordenadas!**
