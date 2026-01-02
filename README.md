@@ -61,7 +61,7 @@ Você precisa ter o Python instalado em sua máquina. Além disso, é necessári
 
 3.  **Instale as dependências:**
     ```bash
-    pip install flet speechrecognition pyaudio
+    pip install -r requirements.txt
     ```
     *Nota: A biblioteca `pyaudio` é necessária para usar o microfone. Se tiver problemas na instalação dela, consulte a documentação oficial para o seu sistema operacional.*
 
