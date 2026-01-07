@@ -88,6 +88,10 @@ Você precisa ter o Python instalado em sua máquina. Além disso, é necessári
 * `logica.py`: Contém as regras do jogo, geração de tabuleiros, lógica do computador e verificação de vitória.
 * `reconhecimento_de_voz.py`: Módulo responsável por capturar o áudio do microfone e transformar em texto/coordenadas.
 
+## ⚠️ Limitações Conhecidas
+- O reconhecimento de voz pode falhar em ambientes muito ruidosos.
+- A biblioteca `pyaudio` pode apresentar dificuldades de instalação em alguns sistemas.
+
 ## 🤝 Contribuidores
 <table>
   <tr>
